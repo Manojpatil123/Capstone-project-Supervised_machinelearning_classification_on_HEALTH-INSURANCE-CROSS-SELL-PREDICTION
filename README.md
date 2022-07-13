@@ -17,6 +17,7 @@ image
 -----------------------------------------------------
 
 💾 Table of Content
+
 Introduction
 Abstract
 Dataset Information
@@ -25,6 +26,7 @@ Conclusion
 -----------------------------------------------------
 
 📖 Introduction:
+
 Insurance is a contract, represented by a policy, in which an individual or entity receives financial protection or reimbursement against losses from an insurance company.
 
 This EDA will use Python libraries, matplotlib, and Seaborn to examine the Subscribed health insurance customers dataset through visualizations and graphs.
@@ -46,6 +48,7 @@ dataset-cover
 -----------------------------------------------------
 
 📖 Abstract:
+
 The objective was to anticipate Customers who are interested in purchasing vehcle insurance.
 
 Exploratory Data Analysis is done on the dataset to get the insights from the information however the principal invalid qualities are taken care of. Likewise, some hypothesis testing was additionally performed from the experiences from EDA.
@@ -57,6 +60,7 @@ From that point forward, all that was left was to track down the important facto
 -----------------------------------------------------
 
 📖 Dataset information:
+
 id - A unique id for each customer.
 
 Gender - Gender details of the health insurance owner.
