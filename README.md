@@ -86,6 +86,7 @@ Response - Response of the customer to buying vehicle insurance.
 -----------------------------------------------------
 
 📖 Problem Statement:
+
 This dataset consists information Subscribed Health insurance customers from insurance company.
 
 The dataset is provided by the insurance company.
@@ -101,6 +102,7 @@ Integrating the factors affecting the purchase and insights from the data, will 
 -----------------------------------------------------
 
 📖 Conclusion:
+
 Our main goal in this project was to determine different factors based on response, which we have done.
 
 After fitting different models, we did hyperparameter tunig for better results.
